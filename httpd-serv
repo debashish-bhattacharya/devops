@@ -1,0 +1,2 @@
+echo $PWD
+cp /root/Downloads/tst/jenkins.war /tmp
